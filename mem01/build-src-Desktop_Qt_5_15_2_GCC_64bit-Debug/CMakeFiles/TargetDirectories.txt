@@ -1,0 +1,5 @@
+/home/jwu/study/memory/cudamem/memtest/mem01/build-src-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/mem01.dir
+/home/jwu/study/memory/cudamem/memtest/mem01/build-src-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/jwu/study/memory/cudamem/memtest/mem01/build-src-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/jwu/study/memory/cudamem/memtest/mem01/build-src-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/mem01_autogen_timestamp_deps.dir
+/home/jwu/study/memory/cudamem/memtest/mem01/build-src-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/mem01_autogen.dir

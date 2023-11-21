@@ -1,0 +1,5 @@
+Log file created at: 2023/11/21 16:44:22
+Running on machine: jwu-desktop
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20231121 16:44:22.693063 936285 main.cpp:37] log init:Normal(ERROR) log print
